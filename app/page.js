@@ -6,7 +6,7 @@ export default function Home() {
   const [input, setInput] = useState('');
   const [response, setResponse] = useState('');
   const [loading, setLoading] = useState(false);
-
+//ok
   const handleSubmit = async (e) => {
     e.preventDefault();
     setLoading(true);

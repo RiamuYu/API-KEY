@@ -5,6 +5,9 @@
   "main": "chat.js",
   "type": "module",
   "dependencies": {
-    "node-fetch": "^3.3.0"
+    "next": "^15.3.4",
+    "node-fetch": "^3.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
