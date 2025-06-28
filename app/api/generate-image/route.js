@@ -1,7 +1,7 @@
 // src/app/api/generate-image/route.js
 export const runtime = 'nodejs'; 
 import { NextResponse } from 'next/server';
-
+//sua loi
 export async function POST(request) {
   try {
     const body = await request.json();
