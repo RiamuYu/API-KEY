@@ -1,0 +1,10 @@
+{
+  "name": "gpt-vision-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for GPT Vision chat",
+  "main": "chat.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
